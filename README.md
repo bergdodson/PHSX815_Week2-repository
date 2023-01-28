@@ -5,3 +5,4 @@ This repository is for the HW assigned in PHSX 815 during week 2
 The files for HW 3 are contained in the file HW3
 Here is the plot that was made of the distribtuion run from windows but not from terminal. ![image not found](Figure 2023-01-27 234236.jpg)
 
+Sorry, the image markdown isn't loading, but it's there to look at in the repository
